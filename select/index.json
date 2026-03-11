@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Day1",
+  "base_artist": "Liella!",
+  "createdAt": "2026-03-11T04:29:14.225788Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Day1",
+      "artist": "Liella!",
+      "has_synced": true,
+      "path": "select/01_Day1_Liella!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "DAY1",
+      "artist": "AUO feat. MORISAKI WIN",
+      "has_synced": true,
+      "path": "select/02_DAY1_AUO_feat._MORISAKI_WIN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DAY1",
+      "artist": "AUO feat.MORISAKI WIN",
+      "has_synced": true,
+      "path": "select/03_DAY1_AUO_feat.MORISAKI_WIN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mood Swings (Remix) [feat. Youngn Lipz, Creed Tha Kid & Day1]",
+      "artist": "A Boogie Wit da Hoodie feat. Youngn Lipz, Creed Tha Kid & Day1",
+      "has_synced": true,
+      "path": "select/04_Mood_Swings_(Remix)_[feat._Youngn_Lipz,_Creed_Tha_Kid_&_Day1]_A_Boogie_Wit_da_Hoodie_feat._Youngn_Lipz,_Creed_Tha_Kid_&_Day1.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mood Swings (Remix) [feat. Youngn Lipz, Creed Tha Kid & Day1]",
+      "artist": "A Boogie Wit da Hoodie",
+      "has_synced": true,
+      "path": "select/05_Mood_Swings_(Remix)_[feat._Youngn_Lipz,_Creed_Tha_Kid_&_Day1]_A_Boogie_Wit_da_Hoodie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "DAY1",
+      "artist": "Auo",
+      "has_synced": true,
+      "path": "select/06_DAY1_Auo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "day1",
+      "artist": "liella",
+      "has_synced": true,
+      "path": "select/07_day1_liella.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shinsekai (BUMP OF CHICKEN Tour 2023 Be There At SAITAMA SUPER ARENA - Day1 -)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/08_Shinsekai_(BUMP_OF_CHICKEN_Tour_2023_Be_There_At_SAITAMA_SUPER_ARENA_-_Day1_-)_BUMP_OF_CHICKEN.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Go (BUMP OF CHICKEN Tour 2023 Be There At SAITAMA SUPER ARENA - Day1 -)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/09_Go_(BUMP_OF_CHICKEN_Tour_2023_Be_There_At_SAITAMA_SUPER_ARENA_-_Day1_-)_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sainoujin Ouenka (BUMP OF CHICKEN Tour 2023 Be There At SAITAMA SUPER ARENA - Day1 -)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/10_Sainoujin_Ouenka_(BUMP_OF_CHICKEN_Tour_2023_Be_There_At_SAITAMA_SUPER_ARENA_-_Da_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アカシア (BUMP OF CHICKEN TOUR 2023 be there at SAITAMA SUPER ARENA - DAY1 -)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/11_アカシア_(BUMP_OF_CHICKEN_TOUR_2023_be_there_at_SAITAMA_SUPER_ARENA_-_DAY1_-)_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "グングニル (BUMP OF CHICKEN TOUR 2023 be there at SAITAMA SUPER ARENA - DAY1 -)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/12_グングニル_(BUMP_OF_CHICKEN_TOUR_2023_be_there_at_SAITAMA_SUPER_ARENA_-_DAY1_-)_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "なないろ (BUMP OF CHICKEN TOUR 2023 be there at SAITAMA SUPER ARENA - DAY1 -)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/13_なないろ_(BUMP_OF_CHICKEN_TOUR_2023_be_there_at_SAITAMA_SUPER_ARENA_-_DAY1_-)_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "才悩人応援歌 (BUMP OF CHICKEN TOUR 2023 be there at SAITAMA SUPER ARENA - DAY1 -)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/14_才悩人応援歌_(BUMP_OF_CHICKEN_TOUR_2023_be_there_at_SAITAMA_SUPER_ARENA_-_DAY1_-)_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "クロノスタシス (BUMP OF CHICKEN TOUR 2023 be there at SAITAMA SUPER ARENA - DAY1 -)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/15_クロノスタシス_(BUMP_OF_CHICKEN_TOUR_2023_be_there_at_SAITAMA_SUPER_ARENA_-_DAY1_-)_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Flare (BUMP OF CHICKEN TOUR 2023 be there at SAITAMA SUPER ARENA - DAY1 -)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/16_Flare_(BUMP_OF_CHICKEN_TOUR_2023_be_there_at_SAITAMA_SUPER_ARENA_-_DAY1_-)_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "66号線 (BUMP OF CHICKEN TOUR 2023 be there at SAITAMA SUPER ARENA - DAY1 -)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/17_66号線_(BUMP_OF_CHICKEN_TOUR_2023_be_there_at_SAITAMA_SUPER_ARENA_-_DAY1_-)_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ベル (BUMP OF CHICKEN TOUR 2023 be there at SAITAMA SUPER ARENA - DAY1 -)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/18_ベル_(BUMP_OF_CHICKEN_TOUR_2023_be_there_at_SAITAMA_SUPER_ARENA_-_DAY1_-)_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Day1",
+      "artist": "Liella!",
+      "has_synced": false,
+      "path": "select/pl_01_Day1_Liella!.txt"
+    }
+  ]
+}
